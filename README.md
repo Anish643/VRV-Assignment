@@ -23,7 +23,7 @@ Technologies Used
 
 Installation
 
-1. Clone the repository
+1. Clone the repository from master branch
 git clone https://github.com/Anish643/VRV-Assignment.git
 
 2. Install dependencies
