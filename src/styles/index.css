@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  .navbar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+  }
+  
+  .main {
+    margin-left: 16rem; /* Match sidebar width */
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #0073e6;
+  }
+  
